@@ -4,7 +4,7 @@
 - PhD student at Shanghai Jiao Tong University
 - Office: 638 Science Building No. 6
 - Email: sjtu-15-zy@sjtu.edu.cn
-- School of Mathematical Sciences, Shanghai Jiao Tong University, 800 Dongchuan Rd., Shanghai 200240, China
+- Address: School of Mathematical Sciences, Shanghai Jiao Tong University, 800 Dongchuan Rd., Shanghai 200240, China
 
 ## Education
 - 2019-present Mathematics. PhD. Shanghai Jiao Tong University
