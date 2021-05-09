@@ -1,4 +1,4 @@
-<img align="right" src="/00.jpg" width="20%"/>
+<img align="right" src="/00.jpg" width="25%"/>
 
 # Yue Zhao （赵越）
 - PhD student at Shanghai Jiao Tong University
