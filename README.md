@@ -23,8 +23,12 @@
 - 2017.3    Second Prize of the 8th National College Student Mathematics Competition (Final).
 
 ## Links
+[[CV]()]
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=uh8WhloAAAAJ)] 
 [[Github](https://github.com/yuezhao1997)] 
+
+[[Math](https://math.sjtu.edu.cn/Default/index)]
+[[INS](https://ins.sjtu.edu.cn/)]
 
 
 
