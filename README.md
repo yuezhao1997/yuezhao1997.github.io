@@ -27,7 +27,7 @@
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=uh8WhloAAAAJ)] 
 [[Github](https://github.com/yuezhao1997)] 
 
-[[Math](https://math.sjtu.edu.cn/Default/index)]
+[[Math](https://math.sjtu.edu.cn)]
 [[INS](https://ins.sjtu.edu.cn/)]
 
 
