@@ -21,7 +21,7 @@
 
 ## Conferences
 - Mar. 2020, The Forum on Mathematics and Industrial Innovations, Shanghai Science Hall
-- June 2021, Workshop for Modeling and Analysis in Molecular Biology and Electrophysiology, Duke Kunshan University (Poster)
+- Jun. 2021, Workshop for Modeling and Analysis in Molecular Biology and Electrophysiology, Duke Kunshan University (Poster)
 
 ## Talks
 - 
