@@ -15,13 +15,13 @@
 - Bayesian inverse problem and Gaussian Process
 
 ## Publications
-- Li, L., Xu, Z. and Zhao, Y., 2020. A random-batch Monte Carlo method for many-body systems with singular kernels. SIAM Journal on Scientific Computing, 42(3), pp.A1486-A1509.
-- Jin, S., Li, L., Xu, Z. and Zhao, Y., 2020. A random batch Ewald method for particle systems with Coulomb interactions. arXiv preprint arXiv:2010.01559.
-- Zhao, Y., Liang, J. and Xu, Z., Randomized Verlet list algorithm for short-range molecular dynamics simulations. arXiv preprint arXiv: 2105.04884.
+- L. Li, Z. Xu, and Y. Zhao, 2020. A random-batch Monte Carlo method for many-body systems with singular kernels. SIAM Journal on Scientific Computing, 42(3), pp.A1486-A1509.
+- S. Jin, L. Li, Z. Xu and Y. Zhao, 2020. A random batch Ewald method for particle systems with Coulomb interactions. arXiv preprint arXiv:2010.01559.
+- Y. Zhao, J. Liang and Z. Xu, Randomized Verlet list algorithm for short-range molecular dynamics simulations. arXiv preprint arXiv: 2105.04884.
 
 ## Conferences
 - Mar. 2020, The Forum on Mathematics and Industrial Innovations, Shanghai Science Hall
-- June 2021, Workshop for Modeling and Analysis in Molecular Biology and Electrophysiology, Duke Kunshan University, Kunshan (Poster)
+- June 2021, Workshop for Modeling and Analysis in Molecular Biology and Electrophysiology, Duke Kunshan University (Poster)
 
 ## Talks
 - 
