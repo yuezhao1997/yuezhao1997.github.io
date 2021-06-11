@@ -23,7 +23,7 @@
 - Nov. 11, 2019, The 15th Shanghai Symposium on Scientific and Engineering Computing Methods, Shanghai Maritime University
 - Nov. 24, 2019, Annual Meeting of Shanghai Society for Industrial and Applied Mathematics, Fudan University
 - Mar. 2020, The Forum on Mathematics and Industrial Innovations, Shanghai Science Hall
-- Jun. 2021, Mathematics in Action (MiA2021): Modeling and Analysis in Molecular Biology and Electrophysiology, Duke Kunshan University (Poster)
+- Jun. 10-13, 2021, Mathematics in Action (MiA2021): Modeling and Analysis in Molecular Biology and Electrophysiology, Duke Kunshan University (Poster)
 
 ## Talks
 - 
@@ -39,6 +39,7 @@
 
 [[Math](https://math.sjtu.edu.cn)]
 [[INS](https://ins.sjtu.edu.cn/)]
+[[Group](https://www.x-mol.com/groups/HPC_Lab)]
 
 
 
