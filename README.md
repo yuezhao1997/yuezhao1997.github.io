@@ -27,7 +27,7 @@
 - Jun. 10-13, 2021, Mathematics in Action (MiA2021): Modeling and Analysis in Molecular Biology and Electrophysiology, Duke Kunshan University (Poster)
 
 ## Talks
-- 
+- Jul. 9, 2021, Zhiyuan honored PhD Students Academic Forum, Shanghai Jiao Tong University. "Random-batch Ewald method"
 
 ## Awards and honors
 - 2015-2018 Excellent Students Scholarship in University, SJTU.
