@@ -28,6 +28,7 @@
 
 ## Talks
 - Jul. 9, 2021, Zhiyuan honored PhD Students Academic Forum, Shanghai Jiao Tong University. "Random-batch Ewald method"
+- Oct. 9, 2021, The 5th CSIAM Student Forum (CSIAM 2021 Annual Meeting), Hefei. "Random-batch Ewald method"
 
 ## Awards and honors
 - 2015-2018 Excellent Students Scholarship in University, SJTU.
