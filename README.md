@@ -12,7 +12,8 @@
 
 ## Research interest
 - Fast algorithm in Monte Carlo method and molecular dynamics
-- Bayesian inverse problem and Gaussian Process
+- Bayesian inverse problem and Gaussian process
+- Hydrodynamics and interfacial problems
 
 ## Publications
 - L. Li, Z. Xu, and Y. Zhao, 2020. A random-batch Monte Carlo method for many-body systems with singular kernels. SIAM Journal on Scientific Computing, 42(3), pp.A1486-A1509.
