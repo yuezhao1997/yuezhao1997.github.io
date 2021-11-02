@@ -17,9 +17,9 @@
 
 ## Publications
 - L. Li, Z. Xu, and Y. Zhao, 2020. A random-batch Monte Carlo method for many-body systems with singular kernels. SIAM Journal on Scientific Computing, 42(3), pp.A1486-A1509.
-- S. Jin, L. Li, Z. Xu and Y. Zhao, 2020. A random batch Ewald method for particle systems with Coulomb interactions. SIAM Journal on Scientific Computing, 43(4), pp.B937-B960.
+- S. Jin, L. Li, Z. Xu and Y. Zhao, 2021. A random batch Ewald method for particle systems with Coulomb interactions. SIAM Journal on Scientific Computing, 43(4), pp.B937-B960.
 - J. Liang, Z. Xu and Y. Zhao, 2021. Random-batch list algorithm for short-range molecular dynamics simulations. The Journal of Chemical Physics, 155(4), p.044108.
-- J. Liang, P. Tan, Y. Zhao, L. Li, S. Jin, L. Hong and Z. Xu, 2021. Super-Scalable Molecular Dynamics Algorithm. arXiv preprint arXiv:2106.05494.
+- J. Liang, P. Tan, Y. Zhao, L. Li, S. Jin, L. Hong and Z. Xu, 2021. Superscalability of the random batch Ewald method. arXiv preprint arXiv:2106.05494.
 
 ## Conferences
 - Nov. 11, 2019, The 15th Shanghai Symposium on Scientific and Engineering Computing Methods, Shanghai Maritime University
