@@ -39,6 +39,7 @@
 [[CV]()]
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=uh8WhloAAAAJ)] 
 [[Github](https://github.com/yuezhao1997)] 
+[[ResearchGate](https://www.researchgate.net/profile/Yue-Zhao-14)]
 
 [[Math](https://math.sjtu.edu.cn)]
 [[INS](https://ins.sjtu.edu.cn/)]
