@@ -45,5 +45,5 @@
 [[INS](https://ins.sjtu.edu.cn/)]
 [[Group](https://www.x-mol.com/groups/HPC_Lab)]
 
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GYQBrx_uoC0OQor-uBLOhCS_0b8jFSntjf3ANmlxxVI&cl=ffffff&w=a"></script>
 
