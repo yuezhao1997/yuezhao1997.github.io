@@ -7,7 +7,8 @@
 - Address: School of Mathematical Sciences, Shanghai Jiao Tong University, 800 Dongchuan Rd., Shanghai 200240, China
 
 ## Education
-- 2019-present Mathematics. PhD. Shanghai Jiao Tong University.
+- Feb. 1, 2022-Jan. 31, 2023 Visiting scholar in the Hong Kong University of Science and Technology.
+- 2019-present Mathematics. Ph. D. Shanghai Jiao Tong University.
 - 2015-2019    Mathematics and Applied Mathematics (ZhiYuan honours programme). B.S. Shanghai Jiao Tong University.
 
 ## Research interest
