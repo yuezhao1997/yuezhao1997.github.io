@@ -8,8 +8,8 @@
 
 ## Education
 - Feb. 1, 2022-Jan. 31, 2023 Visiting scholar in the Hong Kong University of Science and Technology.
-- 2019-present Mathematics. Ph. D. Shanghai Jiao Tong University.
-- 2015-2019    Mathematics and Applied Mathematics (ZhiYuan honours programme). B.S. Shanghai Jiao Tong University.
+- 2019-present, Mathematics. Ph. D. Shanghai Jiao Tong University.
+- 2015-2019, Mathematics and Applied Mathematics (ZhiYuan honours programme). B.S. Shanghai Jiao Tong University.
 
 ## Research interest
 - Fast algorithm in Monte Carlo method and molecular dynamics
