@@ -8,8 +8,8 @@
 
 ## Education
 - Feb. 1, 2022-Jan. 31, 2023 Visiting scholar in the Hong Kong University of Science and Technology.
-- 2019-present, Mathematics. Ph. D. Shanghai Jiao Tong University.
-- 2015-2019, Mathematics and Applied Mathematics (ZhiYuan honours programme). B.S. Shanghai Jiao Tong University.
+- 2019-present, Mathematics. Ph. D. in Shanghai Jiao Tong University.
+- 2015-2019, Mathematics and Applied Mathematics (ZhiYuan honours programme). B.S. in Shanghai Jiao Tong University.
 
 ## Research interest
 - Fast algorithm in Monte Carlo method and molecular dynamics
@@ -21,6 +21,7 @@
 - A random batch Ewald method for particle systems with Coulomb interactions, S. Jin, L. Li, Z. Xu and Y. Zhao, SIAM J. Sci. Comput., 43(2021), pp.B937-B960.
 - Random-batch list algorithm for short-range molecular dynamics simulations, J. Liang, Z. Xu and Y. Zhao, J. Chem. Phys., 155(2021), p.044108.
 - Superscalability of the random batch Ewald method, J. Liang, P. Tan, Y. Zhao, L. Li, S. Jin, L. Hong and Z. Xu, J. Chem. Phys., 156(2022), p.014114.
+- Improved random batch Ewald method in molecular dynamics simulations, J. Liang, Z. Xu and Y. Zhao, J. Phys. Chem. A, 126(2022), pp.3583-3593.
 
 ## Conferences
 - Nov. 11, 2019, The 15th Shanghai Symposium on Scientific and Engineering Computing Methods, Shanghai Maritime University
