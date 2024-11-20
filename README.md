@@ -24,11 +24,12 @@
 - Data assimilation and Bayesian inverse problems.
 
 ## Publications
+- J. Liang, Z. Xu and Y. Zhao, Energy stable scheme for random batch molecular dynamics, *J. Chem. Phys.*, 160(2024), 034101
+- J. Liang, Z. Xu and Y. Zhao, Improved random batch Ewald method in molecular dynamics simulations, *J. Phys. Chem. A*, 126(2022), 3583-3593.
+- J. Liang, P. Tan, Y. Zhao, L. Li, S. Jin, L. Hong and Z. Xu, Superscalability of the random batch Ewald method, *J. Chem. Phys.*, 156(2022), 014114.
+- J. Liang, Z. Xu and Y. Zhao, Random-batch list algorithm for short-range molecular dynamics simulations, *J. Chem. Phys.*, 155(2021), 044108.
+- S. Jin, L. Li, Z. Xu and Y. Zhao, A random batch Ewald method for particle systems with Coulomb interactions, *SIAM J. Sci. Comput.*, 43(2021), B937-B960.
 - L. Li, Z. Xu, and Y. Zhao, A random-batch Monte Carlo method for many-body systems with singular kernels, *SIAM J. Sci. Comput.*, 42(2020), A1486-A1509.
-- A random batch Ewald method for particle systems with Coulomb interactions, S. Jin, L. Li, Z. Xu and Y. Zhao, SIAM J. Sci. Comput., 43(2021), pp.B937-B960.
-- Random-batch list algorithm for short-range molecular dynamics simulations, J. Liang, Z. Xu and Y. Zhao, J. Chem. Phys., 155(2021), p.044108.
-- Superscalability of the random batch Ewald method, J. Liang, P. Tan, Y. Zhao, L. Li, S. Jin, L. Hong and Z. Xu, J. Chem. Phys., 156(2022), p.014114.
-- Improved random batch Ewald method in molecular dynamics simulations, J. Liang, Z. Xu and Y. Zhao, J. Phys. Chem. A, 126(2022), pp.3583-3593.
 
 ## Conferences
 - Nov. 11, 2019, The 15th Shanghai Symposium on Scientific and Engineering Computing Methods, Shanghai Maritime University
