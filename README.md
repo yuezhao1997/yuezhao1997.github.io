@@ -9,15 +9,12 @@
 -	Email: zhaoyu14@msu.edu
 
 ## Position
-- Postdoctoral Researcher, Michigan State University, 2023-now
-   Mentor: Prof. Huan Lei
+- 08/2023 - , Postdoctoral Researcher, Michigan State University
 
 ## Education
-- Ph.D., Mathematics, Shanghai Jiao Tong University, 2019-2023
-  Advisor: Prof. Zhenli Xu, Shanghai Jiao Tong University
-  Co-advisor: Prof. Xiaoping Wang, Hong Kong University of Science and Technology
-- Visiting scholar, Hong Kong University of Science and Technology, 2022.2-2023.1
-- B.S. Mathematics, Shanghai Jiao Tong University, 2015-2019
+- 09/2019 - 06/2023, Shanghai Jiao Tong University, Ph.D. in Mathematics
+- 02/2022 - 01/2023, Hong Kong University of Science and Technology, Visiting scholar
+- 09/2015 - 06/2019, Shanghai Jiao Tong University, B.S. in Mathematics
 
 ## Research interest
 - Fast algorithm in Monte Carlo method and molecular dynamics
