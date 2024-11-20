@@ -10,12 +10,12 @@
 
 ## Position
 - Postdoctoral Researcher, Michigan State University, 2023-now
--- Mentor: Prof. Huan Lei
+   Mentor: Prof. Huan Lei
 
 ## Education
 - Ph.D., Mathematics, Shanghai Jiao Tong University, 2019-2023
--- Advisor: Prof. Zhenli Xu, Shanghai Jiao Tong University
--- Co-advisor: Prof. Xiaoping Wang, Hong Kong University of Science and Technology
+  Advisor: Prof. Zhenli Xu, Shanghai Jiao Tong University
+  Co-advisor: Prof. Xiaoping Wang, Hong Kong University of Science and Technology
 - Visiting scholar, Hong Kong University of Science and Technology, 2022.2-2023.1
 - B.S. Mathematics, Shanghai Jiao Tong University, 2015-2019
 
