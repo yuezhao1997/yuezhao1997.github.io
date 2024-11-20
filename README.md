@@ -9,7 +9,7 @@
 -	Email: zhaoyu14@msu.edu
 
 ## Position
-- 08/2023 - , Postdoctoral Researcher, Michigan State University
+- 08/2023 - now, Postdoctoral Researcher, Michigan State University
 
 ## Education
 - 09/2019 - 06/2023, Shanghai Jiao Tong University, Ph.D. in Mathematics
@@ -17,9 +17,11 @@
 - 09/2015 - 06/2019, Shanghai Jiao Tong University, B.S. in Mathematics
 
 ## Research interest
-- Fast algorithm in Monte Carlo method and molecular dynamics
-- Hydrodynamics and interfacial problems
-- Bayesian inverse problem and Gaussian process
+- Multiscale modeling for structure-preserving machine learning models;
+- Fast algorithms in Monte Carlo method and molecular dynamics;
+- Numerical methods for partial differential equations;
+- Hydrodynamics and interfacial problems;
+- Data assimilation and Bayesian inverse problems.
 
 ## Publications
 - A random-batch Monte Carlo method for many-body systems with singular kernels, L. Li, Z. Xu, and Y. Zhao., SIAM J. Sci. Comput., 42(2020), pp.A1486-A1509.
