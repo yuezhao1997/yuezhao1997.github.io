@@ -5,8 +5,8 @@
 - Department of Computational Mathematics, Science, and Engineering
 - Michigan State University
 -	$428$ S Shaw Ln, East Lansing, MI 48824
--	\emph{Phone}: 586-436-0720
--	\emph{Email}: zhaoyu14@msu.edu
+-	Phone: 586-436-0720
+-	Email: zhaoyu14@msu.edu
 
 ## Education
 - Feb. 1, 2022-Jan. 31, 2023 Visiting scholar in the Hong Kong University of Science and Technology.
