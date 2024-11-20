@@ -24,7 +24,7 @@
 - Data assimilation and Bayesian inverse problems.
 
 ## Publications
-- J. Liang, Z. Xu and Y. Zhao, Energy stable scheme for random batch molecular dynamics, *J. Chem. Phys.*, 160(2024), 034101
+- J. Liang, Z. Xu and Y. Zhao, Energy stable scheme for random batch molecular dynamics, *J. Chem. Phys.*, 160(2024), 034101.
 - J. Liang, Z. Xu and Y. Zhao, Improved random batch Ewald method in molecular dynamics simulations, *J. Phys. Chem. A*, 126(2022), 3583-3593.
 - J. Liang, P. Tan, Y. Zhao, L. Li, S. Jin, L. Hong and Z. Xu, Superscalability of the random batch Ewald method, *J. Chem. Phys.*, 156(2022), 014114.
 - J. Liang, Z. Xu and Y. Zhao, Random-batch list algorithm for short-range molecular dynamics simulations, *J. Chem. Phys.*, 155(2021), 044108.
@@ -46,7 +46,7 @@
 ## Talks
 - 01/2024, "Random-batch Ewald method", 2024 Joint Mathematics Meetings, San Francisco, CA, USA
 - 10/09/2021, "Random-batch Ewald method", The 5th CSIAM Student Forum (CSIAM 2021 Annual Meeting), Hefei, China
-- 09/09/2021, "Random-batch Ewald method", Zhiyuan honored Ph.D. Students Academic Forum (Second Prize), Shanghai Jiao Tong University. 
+- 09/09/2021, "Random-batch Ewald method", Zhiyuan honored Ph.D. Students Academic Forum (Second Prize), Shanghai Jiao Tong University
 
 ## Awards and Honors
 - 2021, Wenjun Wu Scholarship, Shanghai Jiao Tong University
