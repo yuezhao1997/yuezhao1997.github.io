@@ -4,14 +4,20 @@
 - Postdoctoral Researcher
 - Department of Computational Mathematics, Science, and Engineering
 - Michigan State University
--	$428$ S Shaw Ln, East Lansing, MI 48824
+-	428 S Shaw Ln, East Lansing, MI 48824
 -	Phone: 586-436-0720
 -	Email: zhaoyu14@msu.edu
 
+## Position
+- Postdoctoral Researcher, Michigan State University, 2023-now
+-- Mentor: Prof. Huan Lei
+
 ## Education
-- Feb. 1, 2022-Jan. 31, 2023 Visiting scholar in the Hong Kong University of Science and Technology.
-- 2019-present, Mathematics. Ph. D. in Shanghai Jiao Tong University.
-- 2015-2019, Mathematics and Applied Mathematics (ZhiYuan honours programme). B.S. in Shanghai Jiao Tong University.
+- Ph.D., Mathematics, Shanghai Jiao Tong University, 2019-2023
+-- Advisor: Prof. Zhenli Xu, Shanghai Jiao Tong University
+-- Co-advisor: Prof. Xiaoping Wang, Hong Kong University of Science and Technology
+- Visiting scholar, Hong Kong University of Science and Technology, 2022.2-2023.1
+- B.S. Mathematics, Shanghai Jiao Tong University, 2015-2019
 
 ## Research interest
 - Fast algorithm in Monte Carlo method and molecular dynamics
