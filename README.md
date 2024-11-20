@@ -31,19 +31,29 @@
 - S. Jin, L. Li, Z. Xu and Y. Zhao, A random batch Ewald method for particle systems with Coulomb interactions, *SIAM J. Sci. Comput.*, 43(2021), B937-B960.
 - L. Li, Z. Xu, and Y. Zhao, A random-batch Monte Carlo method for many-body systems with singular kernels, *SIAM J. Sci. Comput.*, 42(2020), A1486-A1509.
 
+## In Preparation
+- Y. Zhao, W. Burby, A. Christlieb and H. Lei, Data-driven construction of the kinetic collision operator from molecular dynamics.
+- Z. Xu, Y. Zhao and Q. Zhou, Variance-reduced random batch Langevin dynamics.
+
 ## Conferences
-- Nov. 11, 2019, The 15th Shanghai Symposium on Scientific and Engineering Computing Methods, Shanghai Maritime University
-- Nov. 24, 2019, Annual Meeting of Shanghai Society for Industrial and Applied Mathematics, Fudan University
-- Mar. 2020, The Forum on Mathematics and Industrial Innovations, Shanghai Science Hall
-- Jun. 10-13, 2021, Mathematics in Action (MiA2021): Modeling and Analysis in Molecular Biology and Electrophysiology, Duke Kunshan University (Poster)
+- 12/2024, CHARMNET meeting, VT
+- 12/2023,CHARMNET meeting, ``Learning Collision Operator From Micro-Scale Descriptions''(Poster), MSU
+- 06/10-13/2021, Mathematics in Action (MiA2021): Modeling and Analysis in Molecular Biology and Electrophysiology, (Poster), Duke Kunshan University
+- 03/2020, The Forum on Mathematics and Industrial Innovations, Shanghai Science Hall
+- 11/24/2019, Annual Meeting of Shanghai Society for Industrial and Applied Mathematics, Fudan University
+- 11/11/2019, The 15th Shanghai Symposium on Scientific and Engineering Computing Methods, Shanghai Maritime University
 
 ## Talks
-- Jul. 9, 2021, Zhiyuan honored PhD Students Academic Forum, Shanghai Jiao Tong University. "Random-batch Ewald method"
-- Oct. 9, 2021, The 5th CSIAM Student Forum (CSIAM 2021 Annual Meeting), Hefei. "Random-batch Ewald method"
+- 01/2024, "Random-batch Ewald method", 2024 Joint Mathematics Meetings, San Francisco, CA, USA
+- 10/09/2021, "Random-batch Ewald method", The 5th CSIAM Student Forum (CSIAM 2021 Annual Meeting), Hefei, China
+- 09/09/2021, "Random-batch Ewald method", Zhiyuan honored Ph.D. Students Academic Forum (Second Prize), Shanghai Jiao Tong University. 
 
-## Awards and honors
-- 2015-2018 Excellent Students Scholarship in University, SJTU.
-- 2017.3    Second Prize of the 8th National College Student Mathematics Competition (Final).
+## Awards and Honors
+- 2021, Wenjun Wu Scholarship, Shanghai Jiao Tong University
+- 2021, Weichai Power Scholarship, Shanghai Jiao Tong University
+- 2021, Second Prize of Zhiyuan honored Ph.D. Students Academic Forum, Shanghai Jiao Tong University
+- 03/2017, Second Prize of the 8th National College Student Mathematics Competition (Final), China
+- 2015-2019, Excellent Students Scholarship in University, Shanghai Jiao Tong University
 
 ## Links
 [[CV]()]
@@ -51,9 +61,12 @@
 [[Github](https://github.com/yuezhao1997)] 
 [[ResearchGate](https://www.researchgate.net/profile/Yue-Zhao-14)]
 
-[[Math](https://math.sjtu.edu.cn)]
+[[CMSE MSU](https://cmse.msu.edu/)]
+
+[[Math SJTU](https://math.sjtu.edu.cn)]
 [[INS](https://ins.sjtu.edu.cn/)]
 [[Group](https://www.x-mol.com/groups/HPC_Lab)]
+
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GYQBrx_uoC0OQor-uBLOhCS_0b8jFSntjf3ANmlxxVI&cl=ffffff&w=a"></script>
 
