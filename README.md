@@ -47,6 +47,7 @@
 - 11/11/2019, The 15th Shanghai Symposium on Scientific and Engineering Computing Methods, Shanghai Maritime University
 
 ## Talks
+- 03/2025, "Data-driven construction of a generalized kinetic collision operator from molecular dynamics", AIDMM-NRT workshop, MSU
 - 01/2024, "Random-batch Ewald method", 2024 Joint Mathematics Meetings, San Francisco, CA, USA
 - 10/09/2021, "Random-batch Ewald method", The 5th CSIAM Student Forum (CSIAM 2021 Annual Meeting), Hefei, China
 - 09/09/2021, "Random-batch Ewald method", Zhiyuan honored Ph.D. Students Academic Forum (Second Prize), Shanghai Jiao Tong University
