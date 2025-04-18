@@ -25,6 +25,8 @@
 - Data assimilation and Bayesian inverse problems.
 
 ## Publications
+- Y. Zhao, W. Burby, A. Christlieb, H. Lei, Data-driven construction of a generalized kinetic collision operator from molecular dynamics, *arxiv* (2025).
+- Z. Xu, Y. Zhao, Q. Zhou, Variance-reduced random batch Langevin dynamics, *J. Chem. Phys.*, 161(2024), 244110.
 - J. Liang, Z. Xu and Y. Zhao, Energy stable scheme for random batch molecular dynamics, *J. Chem. Phys.*, 160(2024), 034101.
 - J. Liang, Z. Xu and Y. Zhao, Improved random batch Ewald method in molecular dynamics simulations, *J. Phys. Chem. A*, 126(2022), 3583-3593.
 - J. Liang, P. Tan, Y. Zhao, L. Li, S. Jin, L. Hong and Z. Xu, Superscalability of the random batch Ewald method, *J. Chem. Phys.*, 156(2022), 014114.
@@ -33,8 +35,8 @@
 - L. Li, Z. Xu, and Y. Zhao, A random-batch Monte Carlo method for many-body systems with singular kernels, *SIAM J. Sci. Comput.*, 42(2020), A1486-A1509.
 
 ## In Preparation
-- Y. Zhao, W. Burby, A. Christlieb and H. Lei, Data-driven construction of the kinetic collision operator from molecular dynamics.
-- Z. Xu, Y. Zhao and Q. Zhou, Variance-reduced random batch Langevin dynamics.
+- Y. Zhao, W. Burby, A. Christlieb and H. Lei, Fast spectral separation method for construction of general collision operator.
+- Z. Xu, Y. Zhao and Q. Zhou, On the mean field limit of variance-reduced random batch Langevin dynamics for interacting particle systems.
 
 ## Conferences
 - 12/2024, CHARMNET meeting, VT
