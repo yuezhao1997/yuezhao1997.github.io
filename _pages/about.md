@@ -16,7 +16,7 @@ Michigan State University <br>
 
 ## Bio
 
-I am currently a postdoctoral researcher in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) at Michigan State University.
+I am currently a postdoctoral researcher in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) at Michigan State University, where my mentor is [Prof. Huan Lei](https://leihuan-mp.github.io/), and also working with [Prof. Andrew Christlieb](https://directory.natsci.msu.edu/directory/Profiles/Person/101537), [Prof. Joshua Burby](https://oden.utexas.edu/people/directory/Joshua-Burby/), and [Prof. Guosheng Fu](https://sites.nd.edu/gfu/).
 I received my Ph.D. degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in Summer 2023, under the supervision of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/).
 I received my B.S. degree in Mathematics from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in Summer 2019.
 
