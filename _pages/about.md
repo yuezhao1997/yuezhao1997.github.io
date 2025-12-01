@@ -7,9 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+**_Office Address:_** Room 2506, 428 S Shaw Ln <br>
+Department of Computational Mathematics, Science, and Engineering <br>
+Michigan State University <br>
+428 S Shaw Ln, East Lansing, MI 48824 <br>
+**_Email:_** <zhaoyu14@msu.edu> 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+## Bio
+
+I am currently a postdoctoral researcher in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) at Michigan State University.
+I received my Ph.D. degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in Summer 2023, under the supervision of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/).
+I received my B.S. degree in Mathematics from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in Summer 2019.
 
 A data-driven personal website
 ======
