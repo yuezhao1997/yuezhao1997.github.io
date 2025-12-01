@@ -63,5 +63,6 @@ Published/Accepted
 Thesis
 -------
 
+Random-Batch Algorithms for Long-Range Particle Systems
  
 -------
