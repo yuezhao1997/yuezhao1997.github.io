@@ -23,7 +23,7 @@ repository               : "yuezhao1997.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yuezhao_profile.png"
+  avatar           : "yuezhao_profile.jpg"
   name             : "Yue Zhao"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Postdoctoral Researcher"
