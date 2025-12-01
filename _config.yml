@@ -229,7 +229,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false # true
     permalink: /:collection/:path/
   talks:
     output: true
