@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "yuezhao_profile.jpg"
   name             : "Yue Zhao"
-  pronouns         : "he/him" # example: "she/her"  
-  bio              : "Postdoctoral Researcher"
+  pronouns         :  # "he/him" # example: "she/her"  
+  bio              : "Applied Math"
   location         : "East Lansing, MI"
   employer         : "Michigan State University"
-  uri              : "https://yuezhao1997.github.io" # URL
+  uri              :  # "https://yuezhao1997.github.io" # URL
   email            : "zhaoyu14@msu.edu" 
 
   # Academic websites
