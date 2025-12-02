@@ -1,6 +1,15 @@
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
+main changing parts are
+- _config.yml for personalin formation in the front page on the left, with fig in images/yuezhao_profile.jpg
+- _pages/about.md for personalin formation in the front page on the right
+- _data/navigation.yml for showing different sections (e.g. Publications / Teaching / Talks / CV)
+- _pages/publication.md for section Publications
+- _pages/teaching.md for section Teaching
+- _pages/talks.md for section Talks
+- CV is lined to files/CV_2025.pdf
+
 <!-- ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example") -->
 
 # Getting Started
