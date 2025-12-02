@@ -16,7 +16,7 @@ Michigan State University <br>
 
 ## Bio
 
-I am currently a postdoctoral researcher in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) at Michigan State University, where my mentor is [Prof. Huan Lei](https://leihuan-mp.github.io/), and also working with [Prof. Andrew Christlieb](https://directory.natsci.msu.edu/directory/Profiles/Person/101537), [Prof. Joshua Burby](https://oden.utexas.edu/people/directory/Joshua-Burby/), and [Prof. Guosheng Fu](https://sites.nd.edu/gfu/).
+I am currently a postdoctoral researcher in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) at Michigan State University, where my mentor is [Prof. Huan Lei](https://leihuan-mp.github.io/), and also working with [Prof. Andrew Christlieb](https://directory.natsci.msu.edu/directory/Profiles/Person/101537), [Prof. Joshua Burby](https://oden.utexas.edu/people/directory/Joshua-Burby/) and [Prof. Guosheng Fu](https://sites.nd.edu/gfu/).
 I received my Ph.D. degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in Summer 2023, under the supervision of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/), and I was a visiting scholar at the [Hong Kong University of Science and Technology](https://www.math.hkust.edu.hk/) supervised by [Prof. Xiaoping Wang](https://sse.cuhk.edu.cn/en/faculty/wangxiaoping) in 2022.
 I received my B.S. degree in Mathematics from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in Summer 2019.
 
@@ -25,5 +25,5 @@ I received my B.S. degree in Mathematics from [Shanghai Jiao Tong University](ht
 - 2021, Wenjun Wu Scholarship, Shanghai Jiao Tong University
 - 2021, Weichai Power Scholarship, Shanghai Jiao Tong University
 - 2021, Second Prize of Zhiyuan honored Ph.D. Students' Academic Forum, Shanghai Jiao Tong University
-- 03/2017, Second Prize of the 8th National College Student Mathematics Competition (Final), China
+- 2017, Second Prize of the 8th National College Student Mathematics Competition (Final), China  <!-- 03/2017 -->
 - 2015-2019, Excellent Student Scholarship in University, Shanghai Jiao Tong University
