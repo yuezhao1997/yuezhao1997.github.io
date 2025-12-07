@@ -26,8 +26,8 @@ I received my B.S. degree in Mathematics from [Shanghai Jiao Tong University](ht
 - Fast algorithms in Monte Carlo method and molecular dynamics
 - Numerical methods for partial differential equations
 <!--
-- Hydrodynamics and interfacial problems
-- Data assimilation and Bayesian inverse problems
+Hydrodynamics and interfacial problems
+Data assimilation and Bayesian inverse problems
 -->
 
 ## Grants and Awards
