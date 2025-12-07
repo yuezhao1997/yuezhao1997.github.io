@@ -27,7 +27,7 @@ Published/Accepted
     DOI: [10.1103/gml7-f2ng](https://journals.aps.org/prl/abstract/10.1103/gml7-f2ng).
 
 [7] Variance-reduced random batch Langevin dynamics, _**J. Chem. Phys.**_, 161(24), 244110, 2024. <br>
-    with _Zhenli Xu_ and _Qi Zhou_.
+    with _Zhenli Xu_ and _Qi Zhou_. <br>
     DOI: [10.1063/5.0246661](https://pubs.aip.org/aip/jcp/article/161/24/244110/3328715).
 
 [6] Energy stable scheme for random batch molecular dynamics, _**J. Chem. Phys.**_, 160(3), 034101, 2024. <br>
