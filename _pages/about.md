@@ -20,6 +20,16 @@ I am currently a postdoctoral researcher in the [Department of Computational Mat
 I received my Ph.D. degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in Summer 2023, under the supervision of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/), and I was a visiting scholar at the [Hong Kong University of Science and Technology](https://www.math.hkust.edu.hk/) supervised by [Prof. Xiaoping Wang](https://sse.cuhk.edu.cn/en/faculty/wangxiaoping) in 2022.
 I received my B.S. degree in Mathematics from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in Summer 2019.
 
+## Research Interest
+
+- Multiscale modeling for structure-preserving machine learning models
+- Fast algorithms in Monte Carlo method and molecular dynamics
+- Numerical methods for partial differential equations
+<--!
+- Hydrodynamics and interfacial problems
+- Data assimilation and Bayesian inverse problems
+-->
+
 ## Grants and Awards
 
 - 2021, Wenjun Wu Scholarship, Shanghai Jiao Tong University
