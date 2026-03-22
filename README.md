@@ -3,7 +3,7 @@
 
 main changing parts are
 - _config.yml for personal information in the front page on the left, with fig in images/yuezhao_profile.jpg
-- ad "mapmyvisitors.com..." in _config.yml and _includes/author-profile.html
+- ad "mapmyvisitors.com..." in _config.yml and "author.visitor_map_script..." in _includes/author-profile.html
 - _pages/about.md for personal information on the front page on the right
 - _data/navigation.yml for showing different sections (e.g. Publications / Teaching / Talks / CV)
 - _pages/publication.md for section Publications
