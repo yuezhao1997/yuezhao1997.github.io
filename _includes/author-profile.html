@@ -171,9 +171,9 @@
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}  
-      {% if author.visitor_map_script %}
+      {% if site.author.visitor_map_script %}
         <div style="margin-top: 20px;">
-          <script type="text/javascript" id="mapmyvisitors" src="{{ site.visitor_map_script }}"></script>
+          <script type="text/javascript" id="mapmyvisitors" src="{{ site.author.visitor_map_script }}"></script>
         </div>
       {% endif %}
     </ul>
