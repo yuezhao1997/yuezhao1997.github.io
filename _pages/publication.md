@@ -10,7 +10,7 @@ author_profile: true
 Preprint 
 -----------
 
-[10] From MD to kinetic models: data-driven generalized collision operators in 1D3V plasmas, 2025. <br>
+[10] From molecular dynamics to kinetic models: data-driven generalized collision operators in 1D3V plasmas, 2025. <br>
      with _Guosheng Fu_ and _Huan Lei_.
 
 [9] Fast spectral separation method for kinetic equation with anisotropic non-stationary collision operator retaining micro-model fidelity, submitted, 2025. <br>
