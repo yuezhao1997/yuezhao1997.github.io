@@ -39,9 +39,10 @@ Data assimilation and Bayesian inverse problems
 - 2015-2019, Excellent Student Scholarship in University, Shanghai Jiao Tong University
 
 
-
+<!--
 <div style="float: left; width: 320px; margin-right: 20px;">
   <script type="text/javascript" id="mapmyvisitors"
     src="//mapmyvisitors.com/map.js?d=VUkaDZYSQMmI5JCMu87thwAR1010XypxlwiXwQbKDxw&cl=ffffff&w=a">
   </script>
 </div>
+-->
