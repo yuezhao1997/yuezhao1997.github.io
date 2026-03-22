@@ -83,6 +83,8 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+  visitor_map_script: "//mapmyvisitors.com/map.js?d=VUkaDZYSQMmI5JCMu87thwAR1010XypxlwiXwQbKDxw&cl=ffffff&w=a"
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
