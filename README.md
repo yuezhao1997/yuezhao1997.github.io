@@ -9,7 +9,7 @@ main changing parts are
 - _pages/publication.md for section Publications
 - _pages/teaching.md for section Teaching
 - _pages/talks.md for section Talks
-- CV is linked to files/CV_2025.pdf
+- CV is linked to files/CV.pdf
 
 <!-- ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example") -->
 
