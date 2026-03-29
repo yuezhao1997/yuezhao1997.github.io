@@ -12,6 +12,7 @@ Department of Computational Mathematics, Science, and Engineering <br>
 Michigan State University <br>
 428 S Shaw Ln, East Lansing, MI 48824 <br>
 **_Email:_** <zhaoyu14@msu.edu> 
+**_Homepage:_** <[https://yuezhao1997.github.io/](https://yuezhao1997.github.io/)> 
 
 
 ## Bio
@@ -22,20 +23,19 @@ I received my B.S. degree in Mathematics from [Shanghai Jiao Tong University](ht
 
 ## Research Interest
 
-- Multiscale modeling for structure-preserving machine learning models
-- Fast algorithms in Monte Carlo method and molecular dynamics
-- Numerical methods for partial differential equations
-<!--
-Hydrodynamics and interfacial problems
-Data assimilation and Bayesian inverse problems
--->
+- Multiscale modeling for structure-preserving machine learning models;
+- Fast algorithms in molecular dynamics and the Monte Carlo method;
+- Numerical methods for partial differential equations;
+- Hydrodynamics and interfacial problems;
+- Data assimilation and Bayesian inverse problems.
 
 ## Grants and Awards
 
+- 2022, Shanghai Outstanding Doctoral Graduates
 - 2021, Wenjun Wu Scholarship, Shanghai Jiao Tong University
 - 2021, Weichai Power Scholarship, Shanghai Jiao Tong University
 - 2021, Second Prize of Zhiyuan honored Ph.D. Students' Academic Forum, Shanghai Jiao Tong University
-- 2017, Second Prize of the 8th National College Student Mathematics Competition (Final), China  <!-- 03/2017 -->
+- 2017, First Prize in the 8th National College Student Mathematics Competition (Second Prize in the Final Round), China  <!-- 03/2017 -->
 - 2015-2019, Excellent Student Scholarship in University, Shanghai Jiao Tong University
 
 
