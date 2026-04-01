@@ -11,7 +11,7 @@ redirect_from:
 Department of Computational Mathematics, Science, and Engineering <br>
 Michigan State University <br>
 428 S Shaw Ln, East Lansing, MI 48824 <br>
-**_Email:_** <zhaoyu14@msu.edu> 
+**_Email:_** <zhaoyu14@msu.edu> <br>
 **_Homepage:_** <[https://yuezhao1997.github.io/](https://yuezhao1997.github.io/)> 
 
 
