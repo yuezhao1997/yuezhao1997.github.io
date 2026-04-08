@@ -10,8 +10,17 @@ author_profile: true
 Preprint 
 -----------
 
-[10] From molecular dynamics to kinetic models: data-driven generalized collision operators in 1D3V plasmas, 2025. <br>
-     with _Guosheng Fu_ and _Huan Lei_.
+[12] A scalable fast particle method for the Landau collision operator, 2026. <br>
+     with _Shilin Dou_ and _Huan Lei_. <br>
+     preprint
+
+[11] Data-driven generalized collision operators for multi-species kinetic systems, 2026. <br>
+     with _Andrew J. Christlieb_ and _Huan Lei_. <br>
+     preprint
+
+[10] From molecular dynamics to kinetic models: data-driven generalized collision operators in 1D3V plasmas, 2026. <br>
+     with _Guosheng Fu_ and _Huan Lei_. <br>
+     arxiv: [2603.27828](https://arxiv.org/pdf/2603.27828)
 
 [9] Fast spectral separation method for kinetic equation with anisotropic non-stationary collision operator retaining micro-model fidelity, submitted, 2025. <br>
     with _Huan Lei_. <br>
