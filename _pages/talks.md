@@ -7,8 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-## Seminar Talks
+## Talks
 
+1. 04/2026, "Structure-Preserving Construction of Collision Operators for Kinetic Equations from Molecular Dynamics", [Midwest Numerical Analysis Day](\href{https://sites.nd.edu/mnaday2026/), University of Notre Dame, Notre Dame, IN, USA.
+
+2. 09/2025, "Data-driven Learning and Fast Computation of the Kinetic Collision Operator from Molecular Dynamics", [The Great Lakes section of SIAM (GLSIAM)](\href{https://sites.google.com/view/glsiam2025/home/), Illinois Institute of Technology, Chicago, IL, USA.
+
+3. 01/2024, "Random-Batch Ewald Method", [Joint Mathematics Meetings](\href{https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss79.html), San Francisco, CA, USA.
+
+4. 10/2021, "Random-Batch Ewald Method", CSIAM Annual Meeting (Student Forum), Hefei, China.
+
+5. 07/2021, "Random-Batch Ewald Method", Zhiyuan Honored Ph.D Students Academic Forum, Shanghai Jiao Tong University, Shanghai, China.
+
+<!--
 1. "Random-batch Ewald method", _Zhiyuan honored Ph.D. Students' Academic Forum_ (Second Prize), Shanghai Jiao Tong University, July 2021.
 
 2. "Random-batch Ewald method", _the 5-th CSIAM Student Forum_ (CSIAM 2021 Annual Meeting), Hefei, China, October 2021.
@@ -16,8 +27,10 @@ author_profile: true
 3. "Random-batch Ewald method", _2024 Joint Mathematics Meetings_, San Francisco, CA, USA, January 2024.
 
 4. "Data-driven Learning and Fast Computation of the Kinetic Collision Operator from Molecular Dynamics", _The Great Lakes section of SIAM (GLSIAM)_, Illinois Institute of Technology, Chicago, IL USA, September 2025.
+-->
 
 
+    
 
 ## Conference and Workshop Presentations
 
