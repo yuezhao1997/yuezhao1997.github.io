@@ -18,7 +18,7 @@ Preprint
      with _Andrew J. Christlieb_ and _Huan Lei_. <br>
      preprint
 
-[10] From molecular dynamics to kinetic models: data-driven generalized collision operators in 1D3V plasmas, 2026. <br>
+[10] From molecular dynamics to kinetic models: data-driven generalized collision operators in 1D3V plasmas, submitted, 2026. <br>
      with _Guosheng Fu_ and _Huan Lei_. <br>
      arxiv: [2603.27828](https://arxiv.org/pdf/2603.27828)
 
