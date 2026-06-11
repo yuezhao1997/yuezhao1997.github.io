@@ -31,7 +31,7 @@ I received my B.S. degree in Mathematics from [Shanghai Jiao Tong University](ht
 
 ## Grants and Awards
 
-- 2026--28, "AMS-Simons Travel Award" by AMS and Simons Foundation.
+- 2026-28, "AMS-Simons Travel Award" by AMS and Simons Foundation.
 - 2026, Travel award by Midwest Numerical Analysis Day.  <!-- 03/2026 -->
 - 2022, Shanghai Outstanding Doctoral Graduates.
 - 2021, Wenjun Wu Scholarship, Shanghai Jiao Tong University.
