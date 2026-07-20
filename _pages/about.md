@@ -18,20 +18,26 @@ Michigan State University <br>
 ## Bio
 
 I am currently a postdoctoral researcher in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) at Michigan State University, where my mentor is [Prof. Huan Lei](https://leihuan-mp.github.io/), and also working with [Prof. Andrew Christlieb](https://directory.natsci.msu.edu/directory/Profiles/Person/101537), [Prof. Joshua Burby](https://oden.utexas.edu/people/directory/Joshua-Burby/) and [Prof. Guosheng Fu](https://sites.nd.edu/gfu/).
+
 I received my Ph.D. degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in Summer 2023, under the supervision of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/), and I was a visiting scholar at the [Hong Kong University of Science and Technology](https://www.math.hkust.edu.hk/) supervised by [Prof. Xiaoping Wang](https://sse.cuhk.edu.cn/en/faculty/wangxiaoping) in 2022.
 I received my B.S. degree in Mathematics from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in Summer 2019.
 
+I am seeking tenure-track faculty positions starting in Fall 2027.
+
 ## Research Interest
+
+My research lies at the intersection of computational mathematics, kinetic theory, scientific computing, and scientific machine learning.
+I develop structure-preserving and scalable numerical methods that connect microscopic particle dynamics with kinetic and continuum models.
 
 - Multiscale modeling for structure-preserving machine learning models;
 - Fast algorithms in molecular dynamics and the Monte Carlo method;
-- Numerical methods for partial differential equations;
-- Hydrodynamics and interfacial problems;
-- Data assimilation and Bayesian inverse problems.
+- Numerical methods for partial differential equations.
+<!-- - Hydrodynamics and interfacial problems; -->
+<!-- - Data assimilation and Bayesian inverse problems. -->
 
 ## Grants and Awards
 
-<!-- - 2026-28, "AMS-Simons Travel Award" by AMS and Simons Foundation. -->
+- 2026-28, "AMS-Simons Travel Award" by AMS and Simons Foundation.
 - 2026, Travel award by Midwest Numerical Analysis Day.  <!-- 03/2026 -->
 - 2022, Shanghai Outstanding Doctoral Graduates.
 - 2021, Wenjun Wu Scholarship, Shanghai Jiao Tong University.
