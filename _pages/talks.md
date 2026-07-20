@@ -20,34 +20,34 @@ author_profile: true
 
 ## Invited and Contributed Talks
 
-* **Midwest Numerical Analysis Day**, University of Notre Dame, Notre Dame, IN, USA, April 2026
+* **Midwest Numerical Analysis Day**, University of Notre Dame, Notre Dame, IN, USA, April 2026 <br>
   *“Structure-Preserving Construction of Collision Operators for Kinetic Equations from Molecular Dynamics”*
   <!-- [Conference website](https://sites.nd.edu/mnaday2026/) -->
 
-* **Great Lakes Section of SIAM Annual Meeting (GLSIAM)**, Illinois Institute of Technology, Chicago, IL, USA, September 2025
+* **Great Lakes Section of SIAM Annual Meeting (GLSIAM)**, Illinois Institute of Technology, Chicago, IL, USA, September 2025 <br>
   *“Data-Driven Learning and Fast Computation of the Kinetic Collision Operator from Molecular Dynamics”*
   <!-- [Conference website](https://sites.google.com/view/glsiam2025/home/) -->
 
-* **Joint Mathematics Meetings**, San Francisco, CA, USA, January 2024
+* **Joint Mathematics Meetings**, San Francisco, CA, USA, January 2024 <br>
   *“Random-Batch Ewald Method”*
   <!-- [Program](https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss79.html) -->
 
-* **CSIAM Annual Meeting, Student Forum**, Hefei, China, October 2021
+* **CSIAM Annual Meeting, Student Forum**, Hefei, China, October 2021 <br>
   *“Random-Batch Ewald Method”*
 
-* **Zhiyuan Honors Ph.D. Student Academic Forum**, Shanghai Jiao Tong University, Shanghai, China, July 2021
+* **Zhiyuan Honors Ph.D. Student Academic Forum**, Shanghai Jiao Tong University, Shanghai, China, July 2021 <br>
   *“Random-Batch Ewald Method”*
 
 ## Poster Presentations
 
-* **NSF Computational Mathematics Meeting**, University of Utah, Salt Lake City, UT, USA, May 2025
+* **NSF Computational Mathematics Meeting**, University of Utah, Salt Lake City, UT, USA, May 2025 <br>
   *“Data-Driven Construction of the Kinetic Collision Operator from Molecular Dynamics”*
   <!-- [Conference website](https://sites.google.com/gcloud.utah.edu/nsfcompmath-meeting-2025/home) -->
 
-* **CHARMNET Meeting**, Michigan State University, East Lansing, MI, USA, December 2023
+* **CHARMNET Meeting**, Michigan State University, East Lansing, MI, USA, December 2023 <br>
   *“Learning Collision Operators from Microscale Descriptions”*
 
-* **Mathematics in Action 2021**, Duke Kunshan University, Kunshan, Jiangsu, China, June 2021
+* **Mathematics in Action 2021**, Duke Kunshan University, Kunshan, Jiangsu, China, June 2021 <br>
   *“Random-Batch Ewald Method”*
   <!-- [Conference website](https://sites.duke.edu/dkucmcs/events/conferences/mbe2021/) -->
 
