@@ -20,15 +20,19 @@ author_profile: true
 
 ## Invited and Contributed Talks
 
-* **Midwest Numerical Analysis Day**, University of Notre Dame, Notre Dame, IN, USA, April 2026 <br>
+* **SIAM Annual Meeting 2026**, Huntington Convention Center of Cleveland, Cleveland, OH, USA, July 6-10, 2026 <br>
+  *“Structure-Preserving Construction of Collision Operators for Kinetic Equations from Molecular Dynamics”*
+  <!-- [Conference website]([https://sites.nd.edu/mnaday2026/](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=88863)) -->
+
+* **Midwest Numerical Analysis Day**, University of Notre Dame, Notre Dame, IN, USA, April 11-12, 2026 <br>
   *“Structure-Preserving Construction of Collision Operators for Kinetic Equations from Molecular Dynamics”*
   <!-- [Conference website](https://sites.nd.edu/mnaday2026/) -->
 
-* **Great Lakes Section of SIAM Annual Meeting (GLSIAM)**, Illinois Institute of Technology, Chicago, IL, USA, September 2025 <br>
+* **Great Lakes Section of SIAM Annual Meeting (GLSIAM)**, Illinois Institute of Technology, Chicago, IL, USA, September 27-28, 2025 <br>
   *“Data-Driven Learning and Fast Computation of the Kinetic Collision Operator from Molecular Dynamics”*
   <!-- [Conference website](https://sites.google.com/view/glsiam2025/home/) -->
 
-* **Joint Mathematics Meetings**, San Francisco, CA, USA, January 2024 <br>
+* **Joint Mathematics Meetings**, San Francisco, CA, USA, January 3-6, 2024 <br>
   *“Random-Batch Ewald Method”*
   <!-- [Program](https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss79.html) -->
 
@@ -40,7 +44,7 @@ author_profile: true
 
 ## Poster Presentations
 
-* **NSF Computational Mathematics Meeting**, University of Utah, Salt Lake City, UT, USA, May 2025 <br>
+* **NSF Computational Mathematics Meeting**, University of Utah, Salt Lake City, UT, USA, May 8-9, 2025 <br>
   *“Data-Driven Construction of the Kinetic Collision Operator from Molecular Dynamics”*
   <!-- [Conference website](https://sites.google.com/gcloud.utah.edu/nsfcompmath-meeting-2025/home) -->
 
