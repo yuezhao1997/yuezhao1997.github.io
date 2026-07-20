@@ -17,6 +17,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 ## Invited and Contributed Talks
 
 * **Midwest Numerical Analysis Day**, University of Notre Dame, Notre Dame, IN, USA, April 2026
