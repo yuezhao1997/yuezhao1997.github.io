@@ -20,49 +20,49 @@ author_profile: true
 
 ## Invited and Contributed Talks
 
-* **SIAM Annual Meeting 2026**, Huntington Convention Center of Cleveland, Cleveland, OH, USA, July 6-10, 2026 <br>
+* **SIAM Annual Meeting 2026**, Huntington Convention Center of Cleveland, Cleveland, OH, July 6-10, 2026 <br>
   *“Structure-Preserving Construction of Collision Operators for Kinetic Equations from Molecular Dynamics”*
   <!-- [Conference website]([https://sites.nd.edu/mnaday2026/](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=88863)) -->
 
-* **Midwest Numerical Analysis Day**, University of Notre Dame, Notre Dame, IN, USA, April 11-12, 2026 <br>
+* **Midwest Numerical Analysis Day**, University of Notre Dame, Notre Dame, IN, April 11-12, 2026 <br>
   *“Structure-Preserving Construction of Collision Operators for Kinetic Equations from Molecular Dynamics”*
   <!-- [Conference website](https://sites.nd.edu/mnaday2026/) -->
 
-* **Great Lakes Section of SIAM Annual Meeting (GLSIAM)**, Illinois Institute of Technology, Chicago, IL, USA, September 27-28, 2025 <br>
+* **Great Lakes Section of SIAM Annual Meeting (GLSIAM)**, Illinois Institute of Technology, Chicago, IL, September 27-28, 2025 <br>
   *“Data-Driven Learning and Fast Computation of the Kinetic Collision Operator from Molecular Dynamics”*
   <!-- [Conference website](https://sites.google.com/view/glsiam2025/home/) -->
 
-* **Joint Mathematics Meetings**, San Francisco, CA, USA, January 3-6, 2024 <br>
+* **Joint Mathematics Meetings**, San Francisco, CA, January 3-6, 2024 <br>
   *“Random-Batch Ewald Method”*
   <!-- [Program](https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss79.html) -->
 
-* **CSIAM Annual Meeting, Student Forum**, Hefei, China, October 2021 <br>
+* **CSIAM Annual Meeting, Student Forum**, October 2021 <br> <!-- Hefei -->
   *“Random-Batch Ewald Method”*
 
-* **Zhiyuan Honors Ph.D. Student Academic Forum**, Shanghai Jiao Tong University, Shanghai, China, July 2021 <br>
+* **Zhiyuan Honors Ph.D. Student Academic Forum**, Shanghai Jiao Tong University, July 2021 <br>
   *“Random-Batch Ewald Method”*
 
 ## Poster Presentations
 
-* **NSF Computational Mathematics Meeting**, University of Utah, Salt Lake City, UT, USA, May 8-9, 2025 <br>
+* **NSF Computational Mathematics Meeting**, University of Utah, Salt Lake City, UT, May 8-9, 2025 <br>
   *“Data-Driven Construction of the Kinetic Collision Operator from Molecular Dynamics”*
   <!-- [Conference website](https://sites.google.com/gcloud.utah.edu/nsfcompmath-meeting-2025/home) -->
 
-* **CHARMNET Meeting**, Michigan State University, East Lansing, MI, USA, December 2023 <br>
+* **CHARMNET Meeting**, Michigan State University, East Lansing, MI, December 2023 <br>
   *“Learning Collision Operators from Microscale Descriptions”*
 
-* **Mathematics in Action 2021**, Duke Kunshan University, Kunshan, Jiangsu, China, June 2021 <br>
+* **Mathematics in Action 2021**, Duke Kunshan University, June 2021 <br> <!-- Kunshan, Jiangsu -->
   *“Random-Batch Ewald Method”*
   <!-- [Conference website](https://sites.duke.edu/dkucmcs/events/conferences/mbe2021/) -->
 
 ## Conference and Workshop Participation
 
-* **CHARMNET Meeting**, Virginia Tech, Blacksburg, VA, USA, December 2024
+* **CHARMNET Meeting**, Virginia Tech, Blacksburg, VA, December 2024
 
-* **Forum on Mathematics and Industrial Innovations**, Shanghai Science Hall, Shanghai, China, March 2020
+* **Forum on Mathematics and Industrial Innovations**, Shanghai Science Hall, March 2020 <!-- Shanghai -->
 
-* **Annual Meeting of the Shanghai Society for Industrial and Applied Mathematics**, Fudan University, Shanghai, China, November 2019
+* **Annual Meeting of the Shanghai Society for Industrial and Applied Mathematics**, November 2019 <!-- Fudan University, Shanghai -->
 
-* **15th Shanghai Symposium on Scientific and Engineering Computing Methods**, Shanghai Maritime University, Shanghai, China, November 2019
+* **15th Shanghai Symposium on Scientific and Engineering Computing Methods**, November 2019 <!-- Shanghai Maritime University, Shanghai -->
 
 
