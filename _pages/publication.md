@@ -29,7 +29,7 @@ Published/Accepted
 
 [9] Fast spectral separation method for kinetic equation with anisotropic non-stationary collision operator retaining micro-model fidelity, _**J. Comput. Phys.**_, In press, 115205, 2026. <br>
     with _Huan Lei_. <br>
-    arxiv: [10.1016/j.jcp.2026.115205](https://www.sciencedirect.com/science/article/pii/S0021999126005577).
+    DOI: [10.1016/j.jcp.2026.115205](https://www.sciencedirect.com/science/article/pii/S0021999126005577).
 
 [8] Data-driven construction of a generalized kinetic collision operator from molecular dynamics, _**Phys. Rev. Lett.**_, 135(18), 185101, 2025. <br>
     with _Joshua W. Burby_, _Andrew J. Christlieb_ and _Huan Lei_. <br>
