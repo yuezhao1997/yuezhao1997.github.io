@@ -10,9 +10,13 @@ author_profile: true
 
 ## Invited and Contributed Talks
 
+* **SIAM MDS 26**, Salt Palace Convention Center, Salt Lake City, UT, November 16–20, 2026 <br>
+  *“Structure-Preserving Construction of Collision Operators for Kinetic Equations from Molecular Dynamics”*
+  <!-- [Conference website](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=89601) -->
+
 * **SIAM Annual Meeting 2026**, Huntington Convention Center of Cleveland, Cleveland, OH, July 6-10, 2026 <br>
   *“Structure-Preserving Construction of Collision Operators for Kinetic Equations from Molecular Dynamics”*
-  <!-- [Conference website]([https://sites.nd.edu/mnaday2026/](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=88863)) -->
+  <!-- [Conference website](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=88863) -->
 
 * **Midwest Numerical Analysis Day**, University of Notre Dame, Notre Dame, IN, April 11-12, 2026 <br>
   *“Structure-Preserving Construction of Collision Operators for Kinetic Equations from Molecular Dynamics”*
