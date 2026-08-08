@@ -13,6 +13,7 @@ author_profile: true
 * **SIAM MDS 26**, Salt Palace Convention Center, Salt Lake City, UT, November 16–20, 2026 <br>
   *“Structure-Preserving Construction of Collision Operators for Kinetic Equations from Molecular Dynamics”*
   <!-- [Conference website](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=89601) -->
+  <!-- Minisymposium: Scientific Machine-learning and Data-driven Methods in Multi-scale Modeling with Applications - Part I of II -->
 
 * **SIAM Annual Meeting 2026**, Huntington Convention Center of Cleveland, Cleveland, OH, July 6-10, 2026 <br>
   *“Structure-Preserving Construction of Collision Operators for Kinetic Equations from Molecular Dynamics”*
