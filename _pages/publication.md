@@ -14,20 +14,20 @@ Preprint
      with _Shilin Dou_ and _Huan Lei_. <br>
      preprint
 
-[11] Data-driven generalized collision operators for multi-species kinetic systems, 2026. <br>
+[11] Learning a general class of admissible multi-species collision operators from molecular dynamics, 2026. <br>
      with _Andrew J. Christlieb_ and _Huan Lei_. <br>
      preprint
-
-[10] From molecular dynamics to kinetic models: data-driven generalized collision operators in 1D3V plasmas, submitted to J. Comput. Phys., 2026. <br>
-     with _Guosheng Fu_ and _Huan Lei_. <br>
-     arxiv: [2603.27828](https://arxiv.org/pdf/2603.27828)
 
 -----------  
 
 Published/Accepted
 -----
 
-[9] Fast spectral separation method for kinetic equation with anisotropic non-stationary collision operator retaining micro-model fidelity, _**J. Comput. Phys.**_, In press, 115205, 2026. <br>
+[10] From molecular dynamics to kinetic models: data-driven generalized collision operators in 1D3V plasmas, J. Comput. Phys., In press, 2026. <br>
+     with _Guosheng Fu_ and _Huan Lei_. <br>
+     arxiv: [2603.27828](https://arxiv.org/pdf/2603.27828)
+
+[9] Fast spectral separation method for kinetic equation with anisotropic non-stationary collision operator retaining micro-model fidelity, _**J. Comput. Phys.**_, 565, 115205, 2026. <br>
     with _Huan Lei_. <br>
     DOI: [10.1016/j.jcp.2026.115205](https://www.sciencedirect.com/science/article/pii/S0021999126005577).
 
